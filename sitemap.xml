@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uomphonlab.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://uomphonlab.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://uomphonlab.github.io/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://uomphonlab.github.io/facilities/</loc>
+    <loc>/facilities/</loc>
   </url>
   
   <url>
-    <loc>https://uomphonlab.github.io/schedule/</loc>
+    <loc>/schedule/</loc>
   </url>
   
   <url>
-    <loc>https://uomphonlab.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
