@@ -12,6 +12,11 @@ body {
   -moz-font-feature-settings: "liga" on;
 }
 
+div {
+  resize: both;
+  overflow: auto;
+}
+
 h1,
 h2,
 h3,
