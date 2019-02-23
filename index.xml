@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The University of Manchester Phonetics Laboratory</title>
-    <link>/</link>
+    <link>https://uomphonlab.github.io/</link>
     <description>Recent content on The University of Manchester Phonetics Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uomphonlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://uomphonlab.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://uomphonlab.github.io/contact/</guid>
       <description>To book the sound-proof recording room or to borrow equipment, please use the Contact form below. Please note that, depending on staff availability, we might not be able accept bookings even if the lab is free. We will only accept bookings if made up at least 24 hours in advance. Note also that all bookings sent after 17:00 will be processed the following working day.
 
 Send
@@ -24,10 +24,10 @@ Send
     
     <item>
       <title>Facilities</title>
-      <link>/facilities/</link>
+      <link>https://uomphonlab.github.io/facilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/facilities/</guid>
+      <guid>https://uomphonlab.github.io/facilities/</guid>
       <description>The equipment available in the Phon Lab at the moment is:
  Mac and PC desktops and laptops Ultrasound tongue imaging (Telemed Echo Blaster 128 CEXT B/W; Mindray DP-2200) Electroglottalography (Glottal Enterprises EG2-PCX2) Nasal/oral airflow (PCquirer 516) Electropalatograph (WinEPG) Several hand-held recorders (including Zoom H4n Pro) Various microphones (lavalier/lapel, head-mounted, stationary; jack, XLR, mini XLR)  We currently have the following software for use on many of our computers:
  R and RStudio Python 2.</description>
@@ -35,10 +35,10 @@ Send
     
     <item>
       <title>Schedule</title>
-      <link>/schedule/</link>
+      <link>https://uomphonlab.github.io/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/schedule/</guid>
+      <guid>https://uomphonlab.github.io/schedule/</guid>
       <description> </description>
     </item>
     
